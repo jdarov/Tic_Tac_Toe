@@ -96,6 +96,6 @@ This project is open source under the [MIT License](https://opensource.org/licen
 
 ## 🙌 Credits
 
-Built with ♥ by [YourName] as part of a hands-on learning journey into software development and game logic. Thanks for checking it out!
+Built with ♥ by [jdarov] as part of a hands-on learning journey into software development and game logic. Thanks for checking it out!
 
 ---
